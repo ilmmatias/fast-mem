@@ -92,6 +92,6 @@ next:
     add rdx, 64
     add rax, 64
     jmp cmp_0_to_15
-strlen endp
+fast_strlen endp
 
 end

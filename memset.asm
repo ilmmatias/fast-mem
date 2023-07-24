@@ -114,6 +114,6 @@ small3:
 
 edata:
     ret
-memset endp
+fast_memset endp
 
 end

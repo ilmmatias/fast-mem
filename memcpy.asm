@@ -135,6 +135,6 @@ small3:
 
 edata:
     ret
-memcpy endp
+fast_memcpy endp
 
 end
